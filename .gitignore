@@ -1,3 +1,4 @@
 node_modules
 .dhiwise
 .git.zip
+.env
